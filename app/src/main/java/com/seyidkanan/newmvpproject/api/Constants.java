@@ -6,6 +6,6 @@ package com.seyidkanan.newmvpproject.api;
 
 public class Constants {
 
-    public static final String BASE_URL = "https://shop.az/api/v1/";
+    public static final String BASE_URL = "";
 
 }
